@@ -1,0 +1,16 @@
+{
+  "name": "@teropa/drumkit",
+  "version": "1.0.0",
+  "main": "dist/drumkit.js",
+  "module": "dist/drumkit.esm.js",
+  "license": "MIT",
+  "description": "A simple collection of sampled drum hits",
+  "repository": "https://github.com/teropa/drumkit",
+  "author": "Tero Parviainen <tero@teropa.info>",
+  "devDependencies": {
+    "rollup": "^2.23.0"
+  },
+  "scripts": {
+    "build": "rollup --config"
+  }
+}
