@@ -9,6 +9,7 @@ export default [
       name: "drumkit",
       file: pkg.main,
       format: "umd",
+      assetFileNames: "assets/[name][extname]",
     },
   },
   {
@@ -17,6 +18,7 @@ export default [
     output: {
       file: pkg.module,
       format: "es",
+      assetFileNames: "assets/[name][extname]",
     },
   },
 ];

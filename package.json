@@ -1,6 +1,6 @@
 {
   "name": "@teropa/drumkit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "dist/drumkit.js",
   "module": "dist/drumkit.esm.js",
   "license": "MIT",
