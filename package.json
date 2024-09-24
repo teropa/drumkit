@@ -8,7 +8,7 @@
   "repository": "https://github.com/teropa/drumkit",
   "author": "Tero Parviainen <tero@teropa.info>",
   "devDependencies": {
-    "rollup": "^2.23.0"
+    "rollup": "^3.29.5"
   },
   "scripts": {
     "build": "rollup --config"
